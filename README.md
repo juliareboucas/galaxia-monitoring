@@ -7,7 +7,7 @@ Este projeto faz parte do desenvolvimento de uma ferramenta de monitoramento int
 - **index.html**: Página principal com estrutura básica do projeto.
 - **style.css**: Arquivo de estilos com layout básico. legal
 - **script.js**: Script de exemplo com uma mensagem no console.
-- **README.md**: Este arquivo de documentação.
+- **README.md**: Este arquivo de documentação.opa
 
 ## Instruções para Contribuição
 
