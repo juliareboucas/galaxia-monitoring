@@ -5,7 +5,7 @@ Este projeto faz parte do desenvolvimento de uma ferramenta de monitoramento int
 ## Estrutura do Projeto
 
 - **index.html**: Página principal com estrutura básica do projeto.
-- **style.css**: Arquivo de estilos com layout básico.
+- **style.css**: Arquivo de estilos com layout básico. legal
 - **script.js**: Script de exemplo com uma mensagem no console.
 - **README.md**: Este arquivo de documentação.
 
