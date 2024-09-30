@@ -1,0 +1,15 @@
+name: Block Direct Push to Main
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  block-direct-push:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Block direct push to main
+      run: |
+        echo "Erro: Push direto para a branch 'main' é proibido!"
+        exit 1
